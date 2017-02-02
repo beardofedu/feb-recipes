@@ -2,6 +2,8 @@
 
 A place to render family recipes: https://githubteacher.github.io/feb-recipes/
 
+Showing off GitHub Desktop.
+
 ## Contributing Instructions
 
 ### Fork and Pull
@@ -34,7 +36,7 @@ A place to render family recipes: https://githubteacher.github.io/feb-recipes/
 ---
 layout: post
 title:  "RECIPE TITLE"
-date:   yyyy-mm-dd 
+date:   yyyy-mm-dd
 categories: main
 ---
 
